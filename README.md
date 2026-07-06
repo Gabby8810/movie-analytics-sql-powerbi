@@ -1,8 +1,11 @@
 Movie Analytics Dashboard (SQL + Power BI)
 
+
+
 Overview
 This project explores a movie dataset using SQL and Power BI to uncover insights into audience preferences, movie popularity, genre performance, language distribution, and release trends.
 The project demonstrates practical SQL querying, data analysis, and dashboard development skills commonly used in Business Intelligence and Data Analytics roles.
+
 
 
 
@@ -13,6 +16,7 @@ Project Objectives
 - Understand language distribution.
 - Identify highly engaging movies.
 - Discover hidden gems and overhyped movies.
+
 
 
 
@@ -27,6 +31,8 @@ The dataset contains the following attributes:
 - Original Language
 - Genre
 - Poster URL
+
+
 
 
 
@@ -52,6 +58,8 @@ Tools Used
 
 
 
+
+
 SQL Skills Demonstrated
 - SELECT
 - WHERE
@@ -62,6 +70,8 @@ SQL Skills Demonstrated
 - Date Functions
 - Subqueries
 - Aliases
+
+
 
 
 
@@ -86,6 +96,8 @@ Dashboard Features
 
 
 
+
+
 Key Insights
 - Action and Adventure movies dominate popularity rankings.
 - Drama consistently receives high audience ratings.
@@ -95,12 +107,16 @@ Key Insights
 
 
 
+
+
 Repository Structure
 Dataset
 SQL
 PowerBI
 Dashboard Screenshots
 Images
+
+
 
 
 Author
