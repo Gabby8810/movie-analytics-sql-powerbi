@@ -54,7 +54,7 @@ Tools Used
 - MySQL Workbench
 - SQL
 - Power BI
-- Microsoft Excel
+
 
 
 
